@@ -36,3 +36,5 @@ Upon running the program, a menu is displayed with four options:
  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## licence https://choosealicense.com/licenses/mit/
